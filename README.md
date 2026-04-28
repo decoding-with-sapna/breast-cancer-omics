@@ -11,6 +11,8 @@ This project analyzes gene expression data from breast cancer patients to:
 - Drug targets for therapy
 - Prognostic markers for patient outcomes
 - New research directions for aggressive cancers
+- <img width="1327" height="757" alt="image" src="https://github.com/user-attachments/assets/d49e9d3c-f07d-4aab-ae20-de90e1df4865" />
+
 
 ---
 
